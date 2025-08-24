@@ -1,0 +1,15 @@
+.center {
+	margin: auto;
+	width: 50%;
+	border: 3px solid #FEC6DF;
+	text-align: center;
+}
+
+
+body {
+	background-color: #DEB3E0;
+
+}
+div {
+	background-color: #FEECD6;
+}
